@@ -1,0 +1,31 @@
+# Turborepo
+.turbo
+
+# Node
+node_modules
+.npm
+
+# Frontend build output
+frontend/dist
+frontend/.vite
+
+# Backend build output
+backend/bin
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode
+.idea
+*.swp
+*.swo
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
